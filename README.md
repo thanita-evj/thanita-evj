@@ -3,7 +3,7 @@
 ### I'm Thanita Eiamvijit, you can call me "Ning".
 
 - 💻  Cost Engineer trainsitioning into Data Analysis and Data Science industries, honing up my skills with hand-on projects.
-- 🌱  I’m currently keen on learning more on real w
+- 🌱  I’m currently keen on learning and improving my data analytics skills to stand ready for handling with real-world business hand-on.
 - 📌  Check out my data projects on the links below:
   
   [tableau]: https://public.tableau.com/app/profile/thanita.eiamvijit/vizzes
