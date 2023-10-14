@@ -10,6 +10,9 @@
 
   [Tableau Projects][tableau] to view all my data visualizations using Tableau
 
+  [dataanalysis]: https://github.com/thanita-evj/Data-Analysis.git
+
+  [Data Analysis Projects][dataanalysis] to view all my data analysis portfolio projects
 
 ### Little About Me
 
