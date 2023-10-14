@@ -5,14 +5,18 @@
 - 💻  Cost Engineer trainsitioning into Data Analysis and Data Science industries, honing up my skills with hand-on projects.
 - 🌱  I’m currently keeping on learning and improving my data analytics skills to stand ready for handling with real-world business hand-on.
 - 📌  Check out my data projects on the links below:
-  
-  [tableau]: https://public.tableau.com/app/profile/thanita.eiamvijit/vizzes
-
-  [Tableau Projects][tableau] to view all my data visualizations using Tableau
 
   [dataanalysis]: https://github.com/thanita-evj/Data-Analysis.git
 
   [Data Analysis Projects][dataanalysis] to view all my data analysis portfolio projects
+
+  [datascience]: https://github.com/thanita-evj/Data-Science.git
+
+  [Data Science Projects][datascience] to view all my data science portfolio projects including machine learning models and cloud computing 
+
+  [tableau]: https://public.tableau.com/app/profile/thanita.eiamvijit/vizzes
+
+  [Tableau Projects][tableau] to view all my data visualizations using Tableau
 
 ### Little About Me
 
