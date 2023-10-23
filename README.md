@@ -26,6 +26,10 @@
 - M.Sc. in Data Science from University of Europe for Applied Sciences, Germany. 
 - Master thesis studied on the topic of "Development of a clustering algorithm for customer segmentation (Hybrid DBK-means algorithm).
 
+  [thesisdetail]: https://github.com/thanita-evj/Data-Science/tree/main/Development%20of%20A%20Clustering%20Algorithm%20for%20Customer%20Segmentation
+    
+  Please refer to this [Master Thesis Details][thesisdetail] for further information.
+
 💼 **Languages and Tools:**  Python, Sklearn, SQL, IBM SPSS, Tableau, AWS (S3, EC2).
 
 📘 **Certifications & Courses:** 
