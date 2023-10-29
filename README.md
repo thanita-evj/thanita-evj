@@ -36,12 +36,16 @@
 - Completed all 8 required courses in Google Data Analytics (Coursera)
 - Certified Professional Data Analyst (Data Rockie)
 - Intermediate SQL (DataCamp)
+- Intermediate Python (DataCamp)
 - Tableau Fundamental (Datacamp)
+- Fraud Detection in Python (Datacamp)
 
 📫 **Connect and Reach Me:**
 
 [linkedin]: https://www.linkedin.com/in/thanitaeiamvijit/
+[portwebsite]: https://thanitaeiamvijit.wixsite.com/thanitaevj
 - LinkedIn: [My LinkedIn][linkedin]
+- Portfolio Website: [My Portfolio Website][portwebsite]
 - Email: thanita.eiamvijit@gmail.com
 
 
